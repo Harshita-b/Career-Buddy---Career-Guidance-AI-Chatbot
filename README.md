@@ -1,5 +1,5 @@
 # Career Buddy - Career Guidnce AI Chatbot
-![Landing Page](https://github.com/Arya920/Career-Guidnce-AI-bot/blob/main/Chatbot.jpg)
+![Landing Page](https://github.com/Harshita-b/Career-Buddy---Career-Guidnce-AI-Chatbot/blob/main/Chatbot.jpg)
 
 ## Overview
 This project presents the development of a career counseling bot that utilizes Quora data to 
