@@ -1,4 +1,4 @@
-# Career Buddy - Career Guidnce AI Chatbot
+# Career Buddy - Career Guidance AI Chatbot
 ![Landing Page](https://github.com/Harshita-b/Career-Buddy---Career-Guidnce-AI-Chatbot/blob/main/Chatbot.jpg)
 
 ## Overview
